@@ -61,6 +61,8 @@ Tiến hành theo các bước sau:
 2. Hoặc tải trực tiếp ở dạng file nén ZIP:  
     ![Clone project](/images/5.png "Clone project as ZIP")
 
+> ***Chú ý***: Tải **thư mục ckpt** đã được training **[tại đây!](https://bit.ly/its_training)**, ***ghi đè thư mục mới này lên thư mục cũ bên trong folder của dự án***.
+![ckpt Folder](images/Capture.PNG "Tải thư mục CKPT")
 **Bước 2**: Mở **"cmd"** và dẫn tới thư mục dự án, nhập dòng lệnh sau vào cmd để build dự án:
 ```sh
 $ python setup.py build_ext --inplace
