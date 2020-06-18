@@ -1,0 +1,4 @@
+opencv-python==4.1.1.26
+tensorflow-gpu==1.15.0
+numpy==1.16.3
+pyrebase4
