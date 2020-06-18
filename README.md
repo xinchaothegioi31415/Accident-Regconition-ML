@@ -43,12 +43,12 @@ Tiến hành theo các bước sau:
 `
 5. Ở phần *System Variables*, chọn **Path** và nhấn `Edit...`
 ![Step 2](/images/2.png "Step 2")
-6. Bấm `New` và thêm vào 4 dòng sau đây:
+6. Bấm `New` và thêm vào 4 dòng sau đây:  
 ![Step 3](/images/3.png "Step 3")
     ```sh
     C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin
     C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include
-    C:\Program Files\NVIDIA GPU Computing         Toolkit\CUDA\v10.0\extras\CUPTI\libx64
+    C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\extras\CUPTI\libx64
     C:\cuda\bin
     ```
 
@@ -58,7 +58,7 @@ Tiến hành theo các bước sau:
     ```sh
     $ git clone https://github.com/xinchaothegioi31415/Accident-Regconition-ML.git
     ```
-2. Hoặc tải trực tiếp ở dạng file nén ZIP:
+2. Hoặc tải trực tiếp ở dạng file nén ZIP:  
     ![Clone project](/images/5.png "Clone project as ZIP")
 
 **Bước 2**: Mở **"cmd"** và dẫn tới thư mục dự án, nhập dòng lệnh sau vào cmd để build dự án:
